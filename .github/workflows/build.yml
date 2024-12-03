@@ -31,5 +31,5 @@ jobs:
       - name: Upload JAR file
         uses: actions/upload-artifact@v4
         with:
-          name: AlvNukkitMOT
+          name: BetterForms
           path: target/*.jar
